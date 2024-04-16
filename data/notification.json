@@ -1,0 +1,122 @@
+[
+        {
+          "type": "Environmental",
+          "timestamp": 8500,
+          "priority": 1,
+          "weatherCondition": "rainy",
+          "message":"It is raining today, so be cautious."
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 17000,
+          "priority": 2,
+          "footStrikePattern": "midfoot",
+          "message": "Your running form is optimal"
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 25500,
+          "priority": 3,
+          "terrainType": "trail",
+          "message":"Traffic ahead, be careful"
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 34000,
+          "priority": 1,
+          "weatherCondition": "rainy",
+          "message":"The road ahead is slippery, take a right instead"
+        },
+        {
+        "type": "Environmental",
+        "timestamp": 42500,
+        "priority": 2,
+        "terrainType": "uphill",
+        "message":"The uphill ahead is tough, but you can make it"
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 51000,
+          "priority": 1,
+          "footStrikePattern": "heel",
+          "message": "You are landing on your heels, change your form to a midfoot strike instead."
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 59500,
+          "priority": 2,
+          "terrainType": "trail",
+          "message":"Traffic ahead, watch out for cars"
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 68000,
+          "priority": 3,
+          "footStrikePattern": "heel",
+          "message": "Great job, You've just hit a 5km mark, Keep pushing!"
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 76500,
+          "priority": 3,
+          "weatherCondition": "windy",
+          "message":"Windy conditions detected, Consider taking a less exposed route."
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 85000,
+          "priority": 2,
+          "footStrikePattern": "midfoot",
+          "message": "Your blood pressure is higher than normal, Please slow down and hydrate."
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 93500,
+          "priority": 1,
+          "terrainType": "trail",
+          "message":"Traffic ahead, be careful"
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 102000,
+          "priority": 2,
+          "footStrikePattern": "midfoot",
+          "message":"Your hydration level is low, remember to stay hydrated!"
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 110500,
+          "priority": 3,
+          "terrainType": "downhill",
+          "message":"The road ahead goes downhill, so slow down."
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 119000,
+          "priority": 2,
+          "footStrikePattern": "midfoot",
+          "message": "You've burned 600 calories, Consider a protein-rich snack to aid recovery."
+        },
+        {
+          "type": "Environmental",
+          "timestamp": 127500,
+          "priority": 1,
+          "terrainType": "trail",
+          "message":"There is an incident ahead, take a left turn instead"
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 119000,
+          "priority": 2,
+          "footStrikePattern": "midfoot",
+          "message": "Your hydration level is good, keep it up!"
+        },
+        {
+          "type": "Physiological",
+          "timestamp": 144500,
+          "priority": 2,
+          "footStrikePattern": "midfoot",
+          "message": "You have been running for a long time, consider taking a break."
+        }
+
+      ]
